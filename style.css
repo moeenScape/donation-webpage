@@ -1,0 +1,207 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.first-page{
+    height: 700px;
+    background-image: url(/images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#blackcolor{
+    color: black;
+}
+#first-heading{
+    height: 400px;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+
+}
+#link-button{
+    text-decoration: none;
+    background-image: linear-gradient(red,yellow);
+    border: solid 2px;
+    color: wheat;
+    font-weight: 500;
+    padding:10px 40px;
+    border-radius:10px;
+    margin-left: 40%;
+	justify-content: center;
+	align-items: center;
+    
+}
+#link-button1{
+    text-decoration: none;
+    background-image: linear-gradient(red,yellow);
+    border: solid 2px;
+    color: wheat;
+    font-weight: 500;
+    padding:10px 40px;
+    border-radius:10px;
+	justify-content: center;
+	align-items: center;
+    
+}
+#first-p{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+#first-heading1{
+    height: 140px;
+    font-size: 100px;
+    text-align: center;
+    color:black;
+    
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+
+}
+#first-p1{
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.flex-container{
+    display: flex;
+    margin-bottom: 30px;
+    
+
+}
+#flex1{
+    margin-left: 200px;
+    margin-right: 100px;
+}
+#first-section-div{
+    width: 20%;
+    height: 80px;
+    text-align: center;
+}
+#first-section-div1{
+    width: 33%;
+    height: 80px;
+    text-align: center;
+}
+#high-donation
+{
+    border: 2px solid red;
+    width: 20%;
+    height: 80px;
+    text-align: center;
+    background-color: ghostwhite;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+.donation-one{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#input-donation1{
+    margin-bottom: 15px;
+}
+#input-donation{
+    width: 50%;
+    margin: 10px;
+    color: blueviolet;
+    margin-left: 22%;
+    margin-right: 25%;
+    text-align: center;
+    border: none;
+    height: 30px;
+    font-size: 500;
+    border-bottom: 2px solid gray;
+
+}
+.conainer12{
+    margin-left: 5px ;
+    margin-right: 5px;
+    padding: 10px;
+    
+    
+
+}
+#first-section-div12{
+    height: 350px;
+    width: 100%;
+    background-color: bisque;
+}
+#first-section-div2
+{
+    height: 350px;
+    width: 100%;
+    background-color: gray;
+}
+#first-section-div3
+{
+    height: 350px;
+    width: 100%;
+    background-color: grey;
+}
+h2{
+    color: black;
+}
+#last-section{
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 10px;
+    margin-top: 100px;
+}
+.half-with{
+    width: 100%;
+    margin: 2.5%;
+}
+.last-section{
+    margin-top: 4%;
+    margin-left: 30%;
+    margin-right: 18%;
+    margin-bottom: 10px;
+    background-color: blanchedalmond;
+    height: 200px;
+}
+#last-div{
+    padding-top: 13%;
+    padding-left: 20%;
+}
+#last-input{
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    height: 40px;
+
+    font-weight: 500;
+    
+}
+#link-button123{
+    height: 45px;
+    text-decoration: none;
+    background-image: linear-gradient(red,yellow);
+    border: solid 2px;
+    color: wheat;
+    font-weight: 500;
+    padding:10px 40px;
+    border-radius:10px;
+    
+}
+
+footer{
+    background-color: black;
+    padding: 30px;
+}
+footer p{
+    margin-top: 20px;
+    color: wheat;
+    text-align: center;
+    font-weight: 400;
+}
+.greay-foooter{
+    color: grey;
+}
